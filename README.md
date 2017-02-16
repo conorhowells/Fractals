@@ -1,2 +1,2 @@
-# scientific_computing
-Spring 2017
+# Fractaly Imagery
+February 2017
